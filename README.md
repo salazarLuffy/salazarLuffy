@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Smart Contracts using truffle framework**
-
 - 📫 How to reach me **salazarluffy16@gmail.com**
 
 
